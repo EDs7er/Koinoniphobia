@@ -10,3 +10,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Geometry/Meshes/Room01/Duck.uasset
+Content/Geometry/Meshes/Room01/Duck_Body.uasset
+Content/Geometry/Meshes/Room01/Duck_Face.uasset
+Content/Geometry/Meshes/Room01/IO_Duck_01.uasset
